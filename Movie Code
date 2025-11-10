@@ -1,0 +1,7 @@
+echo "# KIN_Productions" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/nishaneh000-a11y/KIN_Productions.git
+git push -u origin main	
